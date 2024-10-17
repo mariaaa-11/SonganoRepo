@@ -5,11 +5,11 @@ const Skills = () => {
   return (
     <Container>
       <h1>My Skills </h1>
-     <p>Leadership </p>
-     <p>Creativity </p>
-     <p>Communication </p>
-    <p>CSS</p>
-     <p>HTML </p>
+     <p>1.Leadership </p>
+     <p>2.Creativity </p>
+     <p>3.Communication </p>
+    <p>4.CSS</p>
+     <p>5.HTML </p>
     </Container>
   );
 };
