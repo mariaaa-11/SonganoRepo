@@ -36,11 +36,11 @@ const Contact = () => {
         </Form.Group>
 
         <Form.Group controlId="formEmail">
-          <Form.Label>Phone number</Form.Label>
+          <Form.Label>Email</Form.Label>
           <Form.Control
-            type="Number"
-            name="phoneNumber"
-            value={formData.phoneNumber}
+            type="Email"
+            name="Email"
+            value={formData.Email}
             onChange={handleChange}
             required
           />
