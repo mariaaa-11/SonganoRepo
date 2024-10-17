@@ -8,6 +8,7 @@ const Skills = () => {
      <p>Leadership </p>
      <p>Creativity </p>
      <p>Communication </p>
+    <p>CSS</p>
      <p>HTML </p>
     </Container>
   );
