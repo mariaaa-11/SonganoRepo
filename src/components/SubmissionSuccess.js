@@ -1,6 +1,9 @@
 import React from 'react';
+import {useLocation} from 'react-router-dom';
+import{Container} from 'react-bootstrap';
 
 const SubmissionSuccess = ({ name, email, message }) => {
+  const location = useLocation();
   return (
     <Container>
   
