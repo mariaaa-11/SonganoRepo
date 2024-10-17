@@ -4,7 +4,7 @@ import SubmissionSuccess from './SubmissionSuccess';
 
 const Contact = () => {
   const [submitted, setSubmitted] = useState(false);
-  const [formData, setFormData] = useState({ name: '', phoneNumber: '', message: '' });
+  const [formData, setFormData] = useState({ name: '', Email: '', message: '' });
 
   const handleChange = (e) => {
     const { name, value } = e.target;
