@@ -1,3 +1,5 @@
+import 'bootstrap/dist/css/bootstrap.min.css';
+import './customStyles.css';  // Import custom styles after Bootstrap
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
