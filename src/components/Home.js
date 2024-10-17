@@ -6,7 +6,7 @@ const Home = () => {
     <Container className="mt-5">
       <Row>
         <Col>
-          <h1>Welcome to Songano's Profile!</h1>
+            <h1 className="custom-violet">Welcome to Songano's Profile!</h1>
           <p>A 3rd-year Bachelor of Science in Computer Science (BSCS) student.</p>
         </Col>
       </Row>
